@@ -3,52 +3,49 @@
 
 *A **GAN-based system** that manipulates facial attributes including **age, expressions, hairstyle, hair color, and head pose** to create realistic transformations in digital images.*
 
----
-#### 1- Facial Expressions, Head Pose
 
-<!-- ===== LivePortrait – Quick Start & Links ===== -->
+## 1. Facial Expressions & Head Pose Control
+
 <div align="center">
-  <!-- 🎬 Showcase GIF -->
-  <p><img src="./assets/showcase.gif" alt="LivePortrait showcase GIF"></p>
-
-  <!-- 🖼️ Image below the GIF -->
+  <!-- 🎬 Animation Showcase -->
   <p>
-    <img src="./assets/demo6.png" alt="LivePortrait example image">
+    <img src="./assets/showcase.gif" alt="Facial expression and head pose manipulation animation">
+  </p>
+
+  <!-- 🖼️ Example Results -->
+  <p>
+    <img src="./assets/demo6.png" alt="Facial expression manipulation result">
   </p>
 
   <p>
-    <img src="./assets/demo5.png" alt="LivePortrait example image">
+    <img src="./assets/demo5.png" alt="Head pose manipulation result">
   </p>
-
 </div>
 
 ---
-#### 2- Hairstyle, Hair Color
+
+## 2. Hairstyle & Hair Color Transfer
 
 <div align="center">
   <p>
-    <img src="./assets/demo1.png" alt="LivePortrait example image">
+    <img src="./assets/demo1.png" alt="Hairstyle transfer result">
   </p>
 
   <p>
-    <img src="./assets/demo2.png" alt="LivePortrait example image">
+    <img src="./assets/demo2.png" alt="Hair color transfer result">
   </p>
-
 </div>
-
-
 
 ---
-#### 3- AGE
 
-<!-- ===== LivePortrait – Quick Start & Links ===== -->
+## 3. Age Progression & Regression
+
 <div align="center">
-  <!-- 🖼️ Image below the GIF -->
   <p>
-    <img src="./assets/demo4_age.png" alt="LivePortrait example image">
+    <img src="./assets/demo4_age.png" alt="Age transformation result">
   </p>
-
 </div>
+
 
 ---
 
