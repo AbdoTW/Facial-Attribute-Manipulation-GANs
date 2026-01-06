@@ -13,7 +13,11 @@
 
   <!-- 🖼️ Image below the GIF -->
   <p>
-    <img src="./assets/demo3.png" alt="LivePortrait example image">
+    <img src="./assets/demo6.png" alt="LivePortrait example image">
+  </p>
+
+  <p>
+    <img src="./assets/demo5.png" alt="LivePortrait example image">
   </p>
 
 </div>
